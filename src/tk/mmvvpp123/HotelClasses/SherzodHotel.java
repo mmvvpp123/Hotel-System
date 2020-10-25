@@ -9,7 +9,6 @@ import java.time.LocalDate;
 public class SherzodHotel {
     private Room [] rooms;
 
-    here are some changes
     // Some changes
     public SherzodHotel(){
         if (new File("rooms.bin").exists()) {
