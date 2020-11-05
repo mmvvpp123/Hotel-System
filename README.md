@@ -51,3 +51,4 @@ This class is the class that makes everything run. It represents the Hotel.
 ___
 ### TODO
 1. Save data to database.
+2. Get databse to data.
